@@ -5,5 +5,5 @@ url: http://wieczorek1990.github.io
 title: Łukasz Wieczorek's blog
 tagline: A slice of programmer's life
 description: Just sharing my thoughts…
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 paginate: 3

@@ -43,4 +43,5 @@ bower_components
 
 # Manually added
 .jekyll-metadata
-
+.bundle/
+vendor/
