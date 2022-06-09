@@ -18,3 +18,6 @@ Go ahead and see a sample obituary to sense if it's worth anything:
 
 [Sample obituary notice](https://nekrologi.soiree.tech/api/cemetery-registers/sample/obituary-notices/sample/sample/).
 
+EDIT:
+
+The project is now archived.
