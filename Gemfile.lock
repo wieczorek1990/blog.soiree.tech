@@ -277,7 +277,9 @@ DEPENDENCIES
   github-pages
   kramdown
   logger
-  rubyzip (= 2.3.2)
+  nokogiri
+  rubyzip
+  tzinfo
   webrick
 
 BUNDLED WITH
