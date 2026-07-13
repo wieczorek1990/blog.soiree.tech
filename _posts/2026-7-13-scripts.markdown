@@ -1,0 +1,21 @@
+---
+published: true
+title: Tool driving
+layout: post
+---
+# What is the common in scripts.
+* Version printer.
+* Help printer.
+* Arguments count must be proper.
+* Arguments are taken into tuples (what, what value).
+* Arguments have well known types in libraries for CLIs.
+* Script contains main method.
+* Scripts contain echo step by step explanation.
+* Scripts contain colouring statements.
+* Scripts call blobs.
+* Scripts source files.
+* Scripts use flags (set -eu).
+* Scripts have a starting untold directory.
+* Scripts have a way to know where they are placed at (dirname (status --current-filename)).
+* Scripts have a $status, $? mechanism.
+* Scripts do not scale.
