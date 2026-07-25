@@ -1,0 +1,56 @@
+---
+published: true
+title: Helix
+layout: post
+---
+
+[Helix](https://helix-editor.com) is my newest favourite editor.
+
+Before opening:
+```
+which -a hx
+brew install helix
+hx --version
+hx Notes.md
+hx --tutor
+```
+
+To exit:
+```
+:q
+:q!
+:x
+:wq
+```
+
+To navigate:
+```
+h j k l # train this with muscles
+gh # home
+gl # end
+gg # document beginning
+e # document end
+```
+
+In visual mode:
+```
+d # delete
+x # visual line select
+i # insert
+a # append
+A # apend at line end
+y # yank
+space + Y # yank to system clipboard
+p # paste
+space + p # paste system clipboard
+u # undo
+ctrl + U # redo
+```
+
+In insert mode:
+```
+esc # escape to visual mode
+```
+
+## Note
+Will be adding shortcuts as used.
