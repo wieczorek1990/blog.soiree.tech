@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'github-pages'
-gem 'logger'
+gem 'bigdecimal'
+gem 'csv'
 gem 'kramdown'
+gem 'logger'
 gem 'nokogiri'
 gem 'rubyzip'
 gem 'tzinfo'
