@@ -20,6 +20,5 @@ It works! Lets polish it! Enhappy it. Make it editable.
 * Empower shops. Disjoint shops.
 * Let herbs be.
 * Hide Tejal card; hidden cards list.
-* Doors and portals remade.
 * Rework door and teleport and cellar systems.
 * Pit system for starting up post game load.
