@@ -44,7 +44,7 @@ space + Y # yank to system clipboard
 p # paste
 space + p # paste system clipboard
 u # undo
-ctrl + U # redo
+shift + u # redo
 ```
 
 In insert mode:
